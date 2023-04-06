@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alysson_lemes/)
 
 ![Alysson GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssonlemes&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonlemes&layout=compact)](https://github.com/alyssonlemes/github-readme-stats)
+
 
 ### Tecnologias que estou estudando
 
