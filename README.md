@@ -18,7 +18,7 @@
    
 </div><br/>
 
-Estudante apaixonado por tecnologia, cursando ciências da computação.<br/><br/>
+Estudante apaixonado por tecnologia, cursando ciências da computação e formado no curso técnico de desenvolvimento de sistemas.<br/><br/>
 
 ## Contato:
 - [Gmail 📧](https://alyssondiamantino@gmail.com)
