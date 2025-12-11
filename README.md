@@ -2,9 +2,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/alysson-lemes-diamantino-054093231/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alysson_lemes/)
 
-![Alysson GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssonlemes&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonlemes&layout=compact&theme=tokyonight)](https://github.com/alyssonlemes/github-readme-stats)
-
 
 ### Tecnologias que estou estudando
 
